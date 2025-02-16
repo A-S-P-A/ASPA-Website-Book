@@ -1,6 +1,3 @@
-from IPython.display import display, IFrame
+Hello Worlds
 
-pdf_path = "Preliminary Design Review.pdf"
-display(IFrame(Preliminary Design Review.pdf, width=600, height=500))
-
-Hello World
+[Download the PDF](C:\Users\mikem\ASPA-Website)
