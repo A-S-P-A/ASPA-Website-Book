@@ -1,6 +1,6 @@
 # Welcome to Team ASPA
 
-We are a group of 3rd year Engineering Students, working on our dissertation. This is the a deaign concept for a rotating space station. 
+We are a group of 3rd year Engineering Students, working on our dissertation. This is the a deSign concept for a rotating space station. 
 
 You can browse the work of each team member:
 
