@@ -18,4 +18,20 @@ You can browse the work of each team member:
 ---
 width: 25%
 ---
+
+{figure} ./images/ProfileIlan.jpg
+---
+width: 25%
+---
+
+{figure} ./images/ProfileEmmanuel.jpg
+---
+width: 25%
+---
+
+{figure} ./images/ProfileAbaas.jpg
+---
+width: 25%
+---
+
 ```
