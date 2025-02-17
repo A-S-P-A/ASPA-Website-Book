@@ -7,8 +7,6 @@ You can browse the work of each team member:
 ```{tableofcontents}
 ```
 
-![Figure 1](images/Station-Attitude.MP4)
-
 ## Meet the team:
 
 ![Figure 2](images/ProfileWania.jpg)
