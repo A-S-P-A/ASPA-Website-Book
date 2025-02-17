@@ -13,3 +13,9 @@ You can browse the work of each team member:
 ![Figure 3](images/ProfileIlan.jpg)
 ![Figure 4](images/ProfileEmmanuel.jpg)
 ![Figure 5](images/ProfileAbaas.jpg)
+
+```{figure} ./images/ProfileWania.jpg
+---
+width: 25%
+---
+```
