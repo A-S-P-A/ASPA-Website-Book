@@ -9,29 +9,30 @@ You can browse the work of each team member:
 
 ## Meet the team:
 
-![Figure 2](images/ProfileWania.jpg)
-![Figure 3](images/ProfileIlan.jpg)
-![Figure 4](images/ProfileEmmanuel.jpg)
-![Figure 5](images/ProfileAbaas.jpg)
-
 ```{figure} ./images/ProfileWania.jpg
 ---
 width: 25%
 ---
-
-{figure} ./images/ProfileIlan.jpg
----
-width: 25%
----
-
-{figure} ./images/ProfileEmmanuel.jpg
----
-width: 25%
----
-
-{figure} ./images/ProfileAbaas.jpg
----
-width: 25%
----
-
 ```
+
+```{figure} ./images/ProfileIlan.jpg
+---
+width: 25%
+---
+```
+
+```{figure} ./images/ProfileEmmanuel.jpg
+---
+width: 25%
+---
+```
+
+```{figure} ./images/ProfileAbaas.jpg
+---
+width: 25%
+---
+```
+
+
+| ![Wania](./images/ProfileWania.jpg) | ![Ilan](./images/ProfileIlan.jpg) | ![Emmanuel](./images/ProfileEmmanuel.jpg) | ![Abaas](./images/ProfileAbaas.jpg) |
+|:---:|:---:|:---:|:---:|

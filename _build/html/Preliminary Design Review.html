@@ -382,7 +382,16 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="preliminary-design-review">
 <h1>Preliminary Design Review<a class="headerlink" href="#preliminary-design-review" title="Link to this heading">#</a></h1>
-<p>[Download the PDF](Preliminary Design Review.pdf)</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">fitz</span>  <span class="c1"># PyMuPDF</span>
+
+<span class="n">pdf_path</span> <span class="o">=</span> <span class="s2">&quot;Preliminary Design Review.pdf&quot;</span>
+<span class="n">doc</span> <span class="o">=</span> <span class="n">fitz</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="n">Preliminary</span> <span class="n">Design</span> <span class="n">Review</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">page</span> <span class="ow">in</span> <span class="n">doc</span><span class="p">:</span>
+    <span class="n">text</span> <span class="o">=</span> <span class="n">page</span><span class="o">.</span><span class="n">get_text</span><span class="p">(</span><span class="s2">&quot;text&quot;</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>  <span class="c1"># Print text from each page</span>
+</pre></div>
+</div>
 </section>
 
     <script type="text/x-thebe-config">

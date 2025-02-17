@@ -1,3 +1,12 @@
 # Preliminary Design Review
 
-[Download the PDF](Preliminary Design Review.pdf)
+```python
+import fitz  # PyMuPDF
+
+pdf_path = "Preliminary Design Review.pdf"
+doc = fitz.open(Preliminary Design Review)
+
+for page in doc:
+    text = page.get_text("text")
+    print(text)  # Print text from each page
+```
