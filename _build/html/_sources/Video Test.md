@@ -1,19 +1,4 @@
 # ASPA Video Introduction
 
-Hello world 2
-
-```{youtube} FVM9rsQiMBQ 
-:width: 800
-:height: 450
-```
-
-```html
-<iframe width="800" height="450"
-  src="https://www.youtube.com/embed/FVM9rsQiMBQ"
-  frameborder="0"
-  allowfullscreen>
+<iframe width="917" height="516" src="https://www.youtube.com/embed/FVM9rsQiMBQ" title="ASPA: Our Rotating Space Station Design Concept." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
-```
-
-
-https://youtu.be/FVM9rsQiMBQ
