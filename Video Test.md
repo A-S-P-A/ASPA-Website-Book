@@ -1,11 +1,10 @@
-# Station Attitude
+# ASPA Video Introduction
 
 Hello world
 
-```html
-<video width="800" height="600" controls>
-  <source src="images/Video-test/Station-Attitude.mp4" type="video/mp4">
-  station attitude
-</video>
+```{youtube} https://youtu.be/FVM9rsQiMBQ 
+:width: 800
+:height: 450
+```
 
-![Station-attitude](images/Video-test/Station-Attitude.mp4)
+![Watch video on youtube](https://youtu.be/FVM9rsQiMBQ)
