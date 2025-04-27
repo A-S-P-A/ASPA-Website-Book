@@ -5,9 +5,9 @@ format: jb-book
 root: intro
 
 chapters:
-- file: ASPA Introduction Video
-- file: AOCS FRONT END REPORT
+#- file: ASPA Introduction Video
+#- file: AOCS FRONT END REPORT
 - file: STRUCTURAL FRONT END REPORT
 - file: SHIELDING FRONT END REPORT
 - file: LSS FRONT END REPORT
-- file: AODS Detailed Design Report
+- file: AODS/AODS Detailed Design Report
